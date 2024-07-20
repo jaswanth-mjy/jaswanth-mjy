@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Jaswanth
-### 📫 Data Analyst
+
+### 🌱 Data Analyst
 
 ---
 
@@ -18,33 +19,38 @@
 ## 📈 GitHub Stats
 
 ![Jaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaswanth-mjy&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth-mjy&layout=compact&theme=radical)
 
-![Jaswanth's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jaswanth-mjy&theme=dracula)
+---
+
+## 📊 Contribution Activity
+
+### Contribution Graph
+[![Jaswanth's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jaswanth-mjy&theme=dracula)](https://github.com/jaswanth-mjy)
 
 ---
 
 ## 📌 Pinned Repositories
 
 ### [DataAnalytics](https://github.com/jaswanth-mjy/DataAnalytics)
-All my Data analytics labs at VITAP are here.
+All my Data analytics labs at VITAP are here. 📊
 
 ### [NxtiviaSQLproject](https://github.com/jaswanth-mjy/NxtiviaSQLproject)
-A SQL project for Nxtivia.
+A SQL project for Nxtivia. 🗄️
 
 ### [TextSummarization](https://github.com/jaswanth-mjy/TextSummarization)
-HTML-based text summarization project.
-
----
-
-## 🗓 Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jaswanth-mjy&theme=dracula)
+HTML-based text summarization project. 📄
 
 ---
 
 ## 📫 How to reach me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+- Email: [jaswanthplc@gmail.com](mailto:jaswanthplc@gmail.com)
+- LinkedIn: [Majjiga Jaswanth](https://www.linkedin.com/in/majjiga-jaswanth-8304b31ba/)
+
+---
+
+
+
+
+
