@@ -27,15 +27,6 @@
 
 ---
 
-## 📊 Contribution Activity
-
-### Contribution Graph
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=jaswanth-mjy&theme=dracula" alt="Jaswanth's Contribution Graph">
-</p>
-
----
-
 ## 📌 Pinned Repositories
 
 <p align="center">
