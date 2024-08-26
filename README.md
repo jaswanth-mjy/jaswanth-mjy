@@ -27,17 +27,25 @@
 
 ---
 
+## 📊 GitHub Contribution Stats
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanth-mjy&theme=radical" alt="Jaswanth's GitHub Profile Summary" />
+</p>
+
+---
+
 ## 📌 Pinned Repositories
 
 <p align="center">
-    <a href="https://github.com/jaswanth-mjy/DataAnalytics">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=DataAnalytics&theme=radical" alt="DataAnalytics" />
+    <a href="https://github.com/jaswanth-mjy/MinorProject">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=MinorProject&theme=radical" alt="MinorProject" />
     </a>
     <a href="https://github.com/jaswanth-mjy/NxtiviaSQLproject">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=NxtiviaSQLproject&theme=radical" alt="NxtiviaSQLproject" />
     </a>
-    <a href="https://github.com/jaswanth-mjy/TextSummarization">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=TextSummarization&theme=radical" alt="TextSummarization" />
+    <a href="https://github.com/jaswanth-mjy/ChatWithColleague">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=ChatWithColleague&theme=radical" alt="ChatWithColleague" />
     </a>
 </p>
 
