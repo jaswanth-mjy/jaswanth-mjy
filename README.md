@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Cloud+Architect;Azure+%2B+Databricks+%2B+AWS+Expert;Building+Scalable+Data+Pipelines;Transforming+Data+into+Insights" alt="Typing SVG" />
 
-### 🚀 Associate Software Engineer @ Tech Mahindra | Client: GSK
+### 🚀 Data Engineer | Azure & AWS Specialist
 
-📍 Punganur, Andhra Pradesh, India | 📧 jaswanthplc@gmail.com | 📱 +91 9959860037
+📍 India | 📧 jaswanthplc@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/majjiga-jaswanth-8304b31ba/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:jaswanthplc@gmail.com)
@@ -17,38 +17,14 @@
 
 ---
 
-## 💼 Professional Experience
+## �‍💻 About Me
 
-<div align="left">
-
-### **Associate Software Engineer** | Tech Mahindra Limited | Sep 2024 – Present
-**Client:** GSK (GlaxoSmithKline) | **Location:** Bengaluru
-
-- 🔹 Designed scalable **ETL/ELT pipelines** using **Azure Data Factory**, **Databricks**, and **Apache Spark**
-- 🔹 Optimized **SparkSQL & SQL** workflows, achieving **significant performance gains**
-- 🔹 Developed **Python automation scripts** for monitoring and data quality validation
-- 🔹 Implemented **Collibra Data Governance** for cataloging and compliance
-- 🔹 Managed data workflows with **Azure DevOps CI/CD** and **ADLS** storage solutions
-
-</div>
-
----
-
-## 🎓 Education
-
-```text
-🎓 B.Tech in Computer Science & Engineering
-   VIT-AP University, India (2020 – 2024)
-   Score: 86.8/100% | CGPA: 8.68
-
-📚 State Board of Intermediate Education
-   Narayana Jr. College, Telangana (2018 – 2020)
-   Score: 91.6/100%
-
-📖 Board of Secondary Education
-   Narayana School, Andhra Pradesh (2017 – 2018)
-   Score: 97/100%
-```
+- 🔭 Data Engineer specializing in **cloud-based data pipelines** and **real-time analytics**
+- 🌱 Building scalable solutions with **Azure**, **Databricks**, **AWS**, and **Apache Spark**
+- 💡 Passionate about **data architecture**, **ETL/ELT**, and **performance optimization**
+- 🎯 Expertise in **SparkSQL**, **Python**, and **data governance**
+- 💬 Ask me about **Azure Data Factory**, **Databricks**, **PySpark**, or **cloud architecture**
+- ⚡ Certified across multiple cloud and data engineering platforms
 
 ---
 
