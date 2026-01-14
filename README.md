@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Majjiga%20Jaswanth&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Majjiga%20Jaswanth&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+
 <div align="center">
 
 # 👋 Hi, I'm Majjiga Jaswanth
@@ -99,7 +103,36 @@
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 Skills Proficiency
+
+<div align="center">
+
+```text
+Azure & Databricks  █████████░  90%
+Python & PySpark    █████████░  90%
+SQL & SparkSQL      ██████████  95%
+ETL/ELT Pipelines   █████████░  88%
+AWS Services        ████████░░  82%
+Data Modeling       █████████░  87%
+Apache Spark        █████████░  89%
+Power BI & Tableau  ████████░░  80%
+```
+
+</div>
+
+---
+
+## � GitHub Metrics
+
+<div align="center">
+
+![Metrics](https://metrics.lecoq.io/jaswanth-mjy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&notable=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata)
+
+</div>
+
+---
+
+## �📈 GitHub Statistics
 
 <div align="center">
   
@@ -115,7 +148,43 @@
 
 ---
 
-## 🚀 Featured Projects
+## � Quick Access
+
+<div align="center">
+
+### 🌐 Live Websites
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://shramkavach.com">
+        <img src="https://img.shields.io/badge/🏠_Shramkavach-Visit-00C7B7?style=for-the-badge" />
+      </a>
+      <br>
+      <sub><b>Shramkavach Platform</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://shramtools.shramkavach.com">
+        <img src="https://img.shields.io/badge/🛠️_ShramTools-Explore-FF6B35?style=for-the-badge" />
+      </a>
+      <br>
+      <sub><b>Calculator Suite</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/jaswanth-mjy/portfolio.github.io">
+        <img src="https://img.shields.io/badge/📁_Portfolio-View-FF5722?style=for-the-badge" />
+      </a>
+      <br>
+      <sub><b>My Portfolio</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## �🚀 Featured Projects
 
 <div align="center">
 
@@ -211,6 +280,24 @@ Highlight: Automated ETL pipeline with data quality validation
 
 ---
 
+## ⚡ Recent Activity
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+
+1. 🔴 Opened PR in data engineering project
+2. 💚 Pushed updates to shramkavach.com
+3. ⭐ Starred apache/spark repository
+4. 🎉 Deployed shramtools calculator suite
+5. 💡 Contributed to cloud automation scripts
+
+<!--END_SECTION:activity-->
+
+</div>
+
+---
+
 ## 🌟 Core Competencies
 
 <div align="center">
@@ -240,6 +327,35 @@ Highlight: Automated ETL pipeline with data quality validation
 [![Shramkavach](https://img.shields.io/badge/🏠_Shramkavach.com-Visit_Website-00C7B7?style=for-the-badge)](https://shramkavach.com)
 [![ShramTools](https://img.shields.io/badge/🛠️_ShramTools-Calculator_Suite-FF6B35?style=for-the-badge)](https://shramtools.shramkavach.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/jaswanth-mjy/portfolio.github.io)
+
+</div>
+
+---
+
+---
+
+## 🚀 Support My Work
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/jaswanth-mjy?style=social)](https://github.com/jaswanth-mjy)
+[![GitHub stars](https://img.shields.io/github/stars/jaswanth-mjy?style=social)](https://github.com/jaswanth-mjy)
+[![GitHub forks](https://img.shields.io/github/forks/jaswanth-mjy/jaswanth-mjy?style=social)](https://github.com/jaswanth-mjy/jaswanth-mjy)
+
+If you like my work, consider giving it a ⭐ star!
+
+</div>
+
+---
+
+## 🚀 Support My Work
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/jaswanth-mjy?style=social)](https://github.com/jaswanth-mjy)
+[![GitHub stars](https://img.shields.io/github/stars/jaswanth-mjy?style=social)](https://github.com/jaswanth-mjy)
+
+If you like my work, consider giving it a ⭐ star!
 
 </div>
 
