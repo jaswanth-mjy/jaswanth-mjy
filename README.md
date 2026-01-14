@@ -85,17 +85,29 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/jaswanth-mjy/MinorProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=MinorProject&theme=radical&hide_border=true" alt="MinorProject" />
+  <a href="https://github.com/jaswanth-mjy/scribbletools-calculator-suite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=scribbletools-calculator-suite&theme=radical&hide_border=true" alt="ScribbleTools Calculator Suite" />
   </a>
-  <a href="https://github.com/jaswanth-mjy/NxtiviaSQLproject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=NxtiviaSQLproject&theme=radical&hide_border=true" alt="NxtiviaSQLproject" />
+  <a href="https://github.com/jaswanth-mjy/hand-gesture-media-controller">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=hand-gesture-media-controller&theme=radical&hide_border=true" alt="Hand Gesture Media Controller" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/jaswanth-mjy/ChatWithColleague">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=ChatWithColleague&theme=radical&hide_border=true" alt="ChatWithColleague" />
+  <a href="https://github.com/jaswanth-mjy/roommate-matching">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=roommate-matching&theme=radical&hide_border=true" alt="AI Roommate Matching" />
+  </a>
+  <a href="https://github.com/jaswanth-mjy/HireReady">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=HireReady&theme=radical&hide_border=true" alt="HireReady Resume Assistant" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/jaswanth-mjy/TheftDetectionSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=TheftDetectionSystem&theme=radical&hide_border=true" alt="Theft Detection System" />
+  </a>
+  <a href="https://github.com/jaswanth-mjy/google-cloud-labs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth-mjy&repo=google-cloud-labs&theme=radical&hide_border=true" alt="Google Cloud Labs Scripts" />
   </a>
 </div>
 
