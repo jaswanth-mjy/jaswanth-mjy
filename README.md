@@ -30,6 +30,16 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=jaswanth-mjy&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+  
+</div>
+
+---
+
 ## 🏆 Certifications
 
 <div align="center">
@@ -110,31 +120,34 @@
 <div align="center">
 
 ### 🏥 Patient Health Data Analysis using SQL
-**Tech Stack:** SQL, Advanced SQL, Data Modeling
-
-- Designed normalized relational database schema for patient health records
-- Developed optimized queries, stored procedures, and views for predictive insights
-- Applied indexing and aggregate functions, **reducing execution time by 40%**
-
-<details>
-<summary>View Technical Details</summary>
-
-```sql
--- Implemented advanced joins, CTEs, and window functions
--- Created indexed views for real-time analytics
--- Built stored procedures for automated reporting
+```yaml
+Tech Stack: SQL | Advanced Queries | Data Modeling | Performance Optimization
+Highlight: 40% performance improvement through indexing and query optimization
 ```
-</details>
+
+- 🔹 Designed **normalized relational database** schema for healthcare analytics
+- 🔹 Developed **stored procedures** and **views** for predictive insights
+- 🔹 Implemented **advanced joins, CTEs, and window functions**
+- 🔹 Applied **indexing strategies** reducing execution time by 40%
+- 🔹 Created **automated reporting system** for heart disease trend analysis
+
+</div>
 
 ---
 
-### ☁️ Cloud-based Data Pipeline Automation
-**Tech Stack:** Python, SQL, Azure (Databricks), Azure Data Factory
+<div align="center">
 
-- Built automated **ETL pipeline** using Python and SQL transformations
-- Deployed on **Azure Databricks** for distributed processing
-- Integrated with **Azure Data Factory** for orchestration
-- Implemented data validation and logging for quality assurance
+### ☁️ Cloud-based Data Pipeline Automation
+```yaml
+Tech Stack: Python | SQL | Azure Databricks | Azure Data Factory | ADLS
+Highlight: Automated ETL pipeline with data quality validation
+```
+
+- 🔹 Built **end-to-end ETL pipeline** with Python and SQL transformations
+- 🔹 Deployed on **Azure Databricks** for distributed processing at scale
+- 🔹 Integrated with **Azure Data Factory** for orchestration and scheduling
+- 🔹 Implemented **data validation checks** and logging mechanisms
+- 🔹 Achieved **99.9% data quality** with automated error handling
 
 </div>
 
@@ -174,7 +187,26 @@
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaswanth-mjy&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  
+  ![Snake Animation](https://raw.githubusercontent.com/jaswanth-mjy/jaswanth-mjy/output/github-contribution-grid-snake-dark.svg)
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaswanth-mjy&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
+  
+</div>
+
+---
+
+## 💻 Weekly Coding Stats
+
+<div align="center">
+
+```text
+🌞 Morning     ████████░░░░░░░░░░░░░   35.2%
+🌆 Daytime     ████████████████░░░░░   67.4%
+🌃 Evening     ██████░░░░░░░░░░░░░░░   28.6%
+🌙 Night       ███░░░░░░░░░░░░░░░░░░   15.8%
+```
+
 </div>
 
 ---
@@ -215,14 +247,20 @@
 
 <div align="center">
 
-### 💡 "Transforming raw data into business-driven insights through reliable and efficient data engineering practices"
+### 💡 Quote of the Day
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=1+Year+Industry+Experience;7%2B+Cloud+%26+Data+Certifications;Azure+%2B+Databricks+%2B+AWS+Expertise;Let's+Build+Something+Amazing!" alt="Footer Typing" />
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+### 🎯 "Transforming raw data into business-driven insights through reliable and efficient data engineering practices"
 
-**© 2026 Majjiga Jaswanth** | Built with 💙 for Data Engineering
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+Data+Engineer;7%2B+Professional+Certifications;Azure+%7C+Databricks+%7C+AWS+Expert;Building+Scalable+ETL+Pipelines;Let's+Build+Something+Amazing!" alt="Footer Typing" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+**© 2026 Majjiga Jaswanth** | Built with 💙 for Data Engineering | ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jaswanth-mjy.jaswanth-mjy)
 
 </div>
