@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/majjiga-jaswanth-8304b31ba/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:jaswanthplc@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jaswanth-mjy)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF5722?style=for-the-badge)](https://jaswanth-mjy.github.io/portfolio.github.io/#home)
 [![Website](https://img.shields.io/badge/🌐_shramkavach.com-Visit-00C7B7?style=for-the-badge)](https://shramkavach.com)
 [![Tools](https://img.shields.io/badge/🛠️_shramtools-Explore-FF6B35?style=for-the-badge)](https://shramtools.shramkavach.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=jaswanth-mjy&color=brightgreen&style=for-the-badge)
@@ -171,7 +172,7 @@ Power BI & Tableau  ████████░░  80%
       <sub><b>Calculator Suite</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/jaswanth-mjy/portfolio.github.io">
+      <a href="https://jaswanth-mjy.github.io/portfolio.github.io/#home">
         <img src="https://img.shields.io/badge/📁_Portfolio-View-FF5722?style=for-the-badge" />
       </a>
       <br>
@@ -324,9 +325,9 @@ Highlight: Automated ETL pipeline with data quality validation
 
 ### 🌐 My Websites
 
+[![Portfolio](https://img.shields.io/badge/💼_Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://jaswanth-mjy.github.io/portfolio.github.io/#home)
 [![Shramkavach](https://img.shields.io/badge/🏠_Shramkavach.com-Visit_Website-00C7B7?style=for-the-badge)](https://shramkavach.com)
 [![ShramTools](https://img.shields.io/badge/🛠️_ShramTools-Calculator_Suite-FF6B35?style=for-the-badge)](https://shramtools.shramkavach.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/jaswanth-mjy/portfolio.github.io)
 
 </div>
 
