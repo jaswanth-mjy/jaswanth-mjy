@@ -90,13 +90,15 @@
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaswanth-mjy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-mjy&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth-mjy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaswanth-mjy&theme=radical" alt="Productive Time" />
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaswanth-mjy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-mjy&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth-mjy&layout=compact&theme=radical&hide_border=true&langs_count=10)
+  
+  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanth-mjy&theme=radical)
+  
 </div>
 
 ---
