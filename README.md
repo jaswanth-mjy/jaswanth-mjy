@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Majjiga%20Jaswanth&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Majjiga%20Jaswanth&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
